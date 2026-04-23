@@ -1,10 +1,10 @@
 # Carbon Emission Tracking and Optimization
 
-## 📌 Overview
+## Overview
 
 This project focuses on tracking, analyzing, and optimizing carbon emissions using AI techniques. It combines Machine Learning, Deep Learning, and NLP models to provide insights and recommendations through an interactive dashboard.
 
-## 🚀 Features
+## Features
 
 * Carbon emission prediction using ML/DL models
 * NLP-based analysis for environmental data
@@ -12,7 +12,7 @@ This project focuses on tracking, analyzing, and optimizing carbon emissions usi
 * Interactive dashboard for visualization
 * Data-driven insights and reporting
 
-## 🧠 Technologies Used
+## Technologies Used
 
 * Python
 * Machine Learning (Scikit-learn)
@@ -20,7 +20,7 @@ This project focuses on tracking, analyzing, and optimizing carbon emissions usi
 * NLP techniques
 * Dashboard (Streamlit / Flask / Power BI)
 
-## 📊 Modules
+## Modules
 
 * Data Collection & Preprocessing
 * Emission Prediction Model
@@ -28,13 +28,13 @@ This project focuses on tracking, analyzing, and optimizing carbon emissions usi
 * Optimization Engine
 * Dashboard Visualization
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies
 2. Run main file / dashboard
 3. Upload dataset (if required)
 
-## 📁 Project Structure
+##  Project Structure
 
 * src/ → core code
 * models/ → trained models
@@ -42,6 +42,6 @@ This project focuses on tracking, analyzing, and optimizing carbon emissions usi
 * dashboard/ → UI
 * docs/ → report & PPT
 
-## 👤 Author
+## Author
 
-Your Name
+Pooja Sattigeri
